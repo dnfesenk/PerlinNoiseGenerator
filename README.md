@@ -2,6 +2,8 @@
 
 This JavaFX application generates dynamic Perlin noise images using the provided `PerlinNoise` class.
 
+![Dynamic-Perlin-Noise-Generator.gif](Dynamic-Perlin-Noise-Generator.gif)
+
 ## Features
 
 - Generates Perlin noise images in real-time
